@@ -24,6 +24,22 @@
     <display-name lang="es">Canal Discovery Kids (Colombia)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal AZ Corazón">
+    <display-name lang="es">Canal AZ Corazón</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telepacífico">
+    <display-name lang="es">Canal Telepacífico</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Teleantioquia ">
+    <display-name lang="es">Canal Teleantioquia </display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 1 (Colombia)">
+    <display-name lang="es">Canal 1 (Colombia)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210428004500 -0500" stop="20210428041500 -0500" channel="Canal Caracol HD (Colombia)">
     <title lang="es">También Caerás</title>
   </programme>
@@ -683,5 +699,353 @@
   </programme>
   <programme start="20210428235100 -0500" stop="20210429000500 -0500" channel="Canal Discovery Kids (Colombia)">
     <title lang="es">NatuGato</title>
+  </programme>
+  <programme start="20210428013000 -0500" stop="20210428030000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Mujer comprada - Parte 2</title>
+  </programme>
+  <programme start="20210428030000 -0500" stop="20210428043000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Tanto amor - Parte 2</title>
+  </programme>
+  <programme start="20210428043000 -0500" stop="20210428060000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Acorralada - Parte 2</title>
+  </programme>
+  <programme start="20210428060000 -0500" stop="20210428073000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">La loba - Parte 2</title>
+  </programme>
+  <programme start="20210428073000 -0500" stop="20210428090000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Mujer comprada - Parte 2</title>
+  </programme>
+  <programme start="20210428090000 -0500" stop="20210428103000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Tanto amor - Parte 2</title>
+  </programme>
+  <programme start="20210428103000 -0500" stop="20210428120000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Acorralada - Parte 2</title>
+  </programme>
+  <programme start="20210428120000 -0500" stop="20210428133000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">La loba - Parte 2</title>
+  </programme>
+  <programme start="20210428133000 -0500" stop="20210428150000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Mujer comprada - Parte 2</title>
+  </programme>
+  <programme start="20210428150000 -0500" stop="20210428163000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Tanto amor - Parte 2</title>
+  </programme>
+  <programme start="20210428163000 -0500" stop="20210428180000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Acorralada - Parte 2</title>
+  </programme>
+  <programme start="20210428180000 -0500" stop="20210428193000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">La loba - Parte 2</title>
+  </programme>
+  <programme start="20210428193000 -0500" stop="20210428210000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Mujer comprada - Parte 2</title>
+  </programme>
+  <programme start="20210428210000 -0500" stop="20210428223000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Tanto amor - Parte 2</title>
+  </programme>
+  <programme start="20210428223000 -0500" stop="20210429000000 -0500" channel="Canal AZ Corazón">
+    <title lang="es">Acorralada - Parte 2</title>
+  </programme>
+  <programme start="20210428003000 -0500" stop="20210428010000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Divas</title>
+  </programme>
+  <programme start="20210428010000 -0500" stop="20210428013000 -0500" channel="Canal Telepacífico">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210428013000 -0500" stop="20210428020000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Franja inclusión</title>
+  </programme>
+  <programme start="20210428020000 -0500" stop="20210428023000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Y de quién es la culpa</title>
+  </programme>
+  <programme start="20210428023000 -0500" stop="20210428030000 -0500" channel="Canal Telepacífico">
+    <title lang="es">De borondo</title>
+  </programme>
+  <programme start="20210428030000 -0500" stop="20210428033000 -0500" channel="Canal Telepacífico">
+    <title lang="es">ADN sorprendente</title>
+  </programme>
+  <programme start="20210428033000 -0500" stop="20210428040000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Divas</title>
+  </programme>
+  <programme start="20210428040000 -0500" stop="20210428043000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Migrantes</title>
+  </programme>
+  <programme start="20210428043000 -0500" stop="20210428050000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Y de quién es la culpa</title>
+  </programme>
+  <programme start="20210428050000 -0500" stop="20210428053000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Franja inclusión</title>
+  </programme>
+  <programme start="20210428053000 -0500" stop="20210428055500 -0500" channel="Canal Telepacífico">
+    <title lang="es">Palabras fieles y verdaderas</title>
+  </programme>
+  <programme start="20210428055500 -0500" stop="20210428060000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Himnos nacional y valle del cauca</title>
+  </programme>
+  <programme start="20210428060000 -0500" stop="20210428063000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Y de quién es la culpa</title>
+  </programme>
+  <programme start="20210428063000 -0500" stop="20210428070000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Programación propia - Telepacífico</title>
+  </programme>
+  <programme start="20210428070000 -0500" stop="20210428073000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Despierta al día con todo</title>
+  </programme>
+  <programme start="20210428073000 -0500" stop="20210428080000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Franja inclusión</title>
+  </programme>
+  <programme start="20210428080000 -0500" stop="20210428090000 -0500" channel="Canal Telepacífico">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210428090000 -0500" stop="20210428091500 -0500" channel="Canal Telepacífico">
+    <title lang="es">Emergencias mecánicas</title>
+  </programme>
+  <programme start="20210428091500 -0500" stop="20210428094500 -0500" channel="Canal Telepacífico">
+    <title lang="es">Programación propia - Telepacífico</title>
+  </programme>
+  <programme start="20210428094500 -0500" stop="20210428100000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Emergencias mecánicas</title>
+  </programme>
+  <programme start="20210428100000 -0500" stop="20210428120000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Al día con todo</title>
+  </programme>
+  <programme start="20210428120000 -0500" stop="20210428121500 -0500" channel="Canal Telepacífico">
+    <title lang="es">Telepacífico</title>
+  </programme>
+  <programme start="20210428121500 -0500" stop="20210428123000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Programación propia - Telepacífico</title>
+  </programme>
+  <programme start="20210428123000 -0500" stop="20210428123200 -0500" channel="Canal Telepacífico">
+    <title lang="es">El boletín del consumidor</title>
+  </programme>
+  <programme start="20210428123200 -0500" stop="20210428125900 -0500" channel="Canal Telepacífico">
+    <title lang="es">Programación propia - Telepacífico</title>
+  </programme>
+  <programme start="20210428125900 -0500" stop="20210428130000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Chontico</title>
+  </programme>
+  <programme start="20210428130000 -0500" stop="20210428133000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Noticiero 90 Minutos</title>
+  </programme>
+  <programme start="20210428133000 -0500" stop="20210428134000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Conectados con el Valle</title>
+  </programme>
+  <programme start="20210428134000 -0500" stop="20210428153000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Tardes del Sol</title>
+  </programme>
+  <programme start="20210428153000 -0500" stop="20210428160000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Elementales</title>
+  </programme>
+  <programme start="20210428160000 -0500" stop="20210428163000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Educa TV</title>
+  </programme>
+  <programme start="20210428163000 -0500" stop="20210428170000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20210428170000 -0500" stop="20210428173000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Qué es lo que somos</title>
+  </programme>
+  <programme start="20210428173000 -0500" stop="20210428175500 -0500" channel="Canal Telepacífico">
+    <title lang="es">Asi es la vuelta</title>
+  </programme>
+  <programme start="20210428175500 -0500" stop="20210428180000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20210428180000 -0500" stop="20210428183000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Asi es la vuelta</title>
+  </programme>
+  <programme start="20210428183000 -0500" stop="20210428185900 -0500" channel="Canal Telepacífico">
+    <title lang="es">De Donde Vengo</title>
+  </programme>
+  <programme start="20210428185900 -0500" stop="20210428190000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Chontico</title>
+  </programme>
+  <programme start="20210428190000 -0500" stop="20210428193000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Magazín Pacífico</title>
+  </programme>
+  <programme start="20210428193000 -0500" stop="20210428200000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Transforma Pacifico</title>
+  </programme>
+  <programme start="20210428200000 -0500" stop="20210428202500 -0500" channel="Canal Telepacífico">
+    <title lang="es">Programación propia - Telepacífico</title>
+  </programme>
+  <programme start="20210428202500 -0500" stop="20210428203000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Cuentos Verdes</title>
+  </programme>
+  <programme start="20210428203000 -0500" stop="20210428210000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Noticiero Noti 5</title>
+  </programme>
+  <programme start="20210428210000 -0500" stop="20210428211000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Conectados con el Valle</title>
+  </programme>
+  <programme start="20210428211000 -0500" stop="20210428214000 -0500" channel="Canal Telepacífico">
+    <title lang="es">De borondo</title>
+  </programme>
+  <programme start="20210428214000 -0500" stop="20210428215900 -0500" channel="Canal Telepacífico">
+    <title lang="es">Buena letra</title>
+  </programme>
+  <programme start="20210428215900 -0500" stop="20210428220000 -0500" channel="Canal Telepacífico">
+    <title lang="es">El boletín del consumidor</title>
+  </programme>
+  <programme start="20210428220000 -0500" stop="20210428221000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Buena letra</title>
+  </programme>
+  <programme start="20210428221000 -0500" stop="20210428223000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Escénica</title>
+  </programme>
+  <programme start="20210428223000 -0500" stop="20210428223500 -0500" channel="Canal Telepacífico">
+    <title lang="es">Lotería del Valle</title>
+  </programme>
+  <programme start="20210428223500 -0500" stop="20210428231000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Escénica</title>
+  </programme>
+  <programme start="20210428231000 -0500" stop="20210428233000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Franja inclusión</title>
+  </programme>
+  <programme start="20210428233000 -0500" stop="20210429000000 -0500" channel="Canal Telepacífico">
+    <title lang="es">Transforma Pacifico</title>
+  </programme>
+  <programme start="20210428003000 -0500" stop="20210428010000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Te recomiendo</title>
+  </programme>
+  <programme start="20210428010000 -0500" stop="20210428020000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Teleantioquia Noticias</title>
+  </programme>
+  <programme start="20210428020000 -0500" stop="20210428033000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Profes Melos</title>
+  </programme>
+  <programme start="20210428033000 -0500" stop="20210428043000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Con todo el amor</title>
+  </programme>
+  <programme start="20210428043000 -0500" stop="20210428050000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">So bia</title>
+  </programme>
+  <programme start="20210428050000 -0500" stop="20210428053000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">De leones y mariposas</title>
+  </programme>
+  <programme start="20210428053000 -0500" stop="20210428060000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Habla por todas</title>
+  </programme>
+  <programme start="20210428060000 -0500" stop="20210428080000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Teleantioquia noticias consejo de redacción</title>
+  </programme>
+  <programme start="20210428080000 -0500" stop="20210428083000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Experiencias de café</title>
+  </programme>
+  <programme start="20210428083000 -0500" stop="20210428090000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Habla por todas</title>
+  </programme>
+  <programme start="20210428090000 -0500" stop="20210428100000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Con todo el amor</title>
+  </programme>
+  <programme start="20210428100000 -0500" stop="20210428113000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Profes Melos</title>
+  </programme>
+  <programme start="20210428113000 -0500" stop="20210428120000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210428120000 -0500" stop="20210428130000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">A pleno día</title>
+  </programme>
+  <programme start="20210428130000 -0500" stop="20210428140000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Hora 13</title>
+  </programme>
+  <programme start="20210428140000 -0500" stop="20210428153000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Las Tres Gracias</title>
+  </programme>
+  <programme start="20210428153000 -0500" stop="20210428173000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">En Escena</title>
+  </programme>
+  <programme start="20210428173000 -0500" stop="20210428183000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Dale Play</title>
+  </programme>
+  <programme start="20210428183000 -0500" stop="20210428185500 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Crear tiene ingenio CT+I</title>
+  </programme>
+  <programme start="20210428185500 -0500" stop="20210428190000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Vida Cooperativa</title>
+  </programme>
+  <programme start="20210428190000 -0500" stop="20210428200000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Teleantioquia Noticias</title>
+  </programme>
+  <programme start="20210428200000 -0500" stop="20210428210000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">En un minuto</title>
+  </programme>
+  <programme start="20210428210000 -0500" stop="20210428220000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">De manera singular</title>
+  </programme>
+  <programme start="20210428220000 -0500" stop="20210428223000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">A punto</title>
+  </programme>
+  <programme start="20210428223000 -0500" stop="20210428230000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">La Mujer del Presidente</title>
+  </programme>
+  <programme start="20210428230000 -0500" stop="20210428233000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Teleantioquia Noticias</title>
+  </programme>
+  <programme start="20210428233000 -0500" stop="20210429000000 -0500" channel="Canal Teleantioquia ">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20210428003000 -0500" stop="20210428020000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Noticentro 1 CM &amp; Emisión central</title>
+  </programme>
+  <programme start="20210428020000 -0500" stop="20210428033000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Noticentro 1 CM &amp; Primera emisión</title>
+  </programme>
+  <programme start="20210428033000 -0500" stop="20210428050000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210428050000 -0500" stop="20210428053000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Noticentro 1 CM &amp; Emisión central</title>
+  </programme>
+  <programme start="20210428053000 -0500" stop="20210428060000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">El despertar de la fe</title>
+  </programme>
+  <programme start="20210428060000 -0500" stop="20210428073000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Cambio Total</title>
+  </programme>
+  <programme start="20210428073000 -0500" stop="20210428080000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Bienestar de adentro hacia afuera</title>
+  </programme>
+  <programme start="20210428080000 -0500" stop="20210428083000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Salud Para Todos</title>
+  </programme>
+  <programme start="20210428083000 -0500" stop="20210428090000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Despertando conciencias</title>
+  </programme>
+  <programme start="20210428090000 -0500" stop="20210428100000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Dragon Ball Z</title>
+  </programme>
+  <programme start="20210428100000 -0500" stop="20210428110000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210428110000 -0500" stop="20210428123000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Noticentro 1 CM &amp; Primera emisión</title>
+  </programme>
+  <programme start="20210428123000 -0500" stop="20210428140000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210428140000 -0500" stop="20210428160000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Lo Se Todo</title>
+  </programme>
+  <programme start="20210428160000 -0500" stop="20210428170000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210428170000 -0500" stop="20210428180000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Caso cerrado Edición estelar</title>
+  </programme>
+  <programme start="20210428180000 -0500" stop="20210428200000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Guerreros Cobras vs Leones</title>
+  </programme>
+  <programme start="20210428200000 -0500" stop="20210428210000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">La Usurpadora</title>
+  </programme>
+  <programme start="20210428210000 -0500" stop="20210428223000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Noticentro 1 CM &amp; Emisión central</title>
+  </programme>
+  <programme start="20210428223000 -0500" stop="20210428231500 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Narcos</title>
+  </programme>
+  <programme start="20210428231500 -0500" stop="20210429000000 -0500" channel="Canal 1 (Colombia)">
+    <title lang="es">Prevención y acción</title>
   </programme>
 </tv>
